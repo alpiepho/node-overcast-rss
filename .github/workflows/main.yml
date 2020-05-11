@@ -1,0 +1,19 @@
+# from https://github.com/marketplace/actions/gatsby-publish, my fork of it
+
+name: Gatsby Publish
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v1
+      - uses: alpiepho/gatsby-gh-pages-action@v3.1 
+        with:
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+          deploy-branch: gh-pages
+          gatsby-args: --prefix-paths
