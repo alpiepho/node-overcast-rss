@@ -39,6 +39,4 @@ npm start  > podcast-summary.mdx
 - python -m SimpleHTTPServer
 - open http://localhost:8000/
 
-### TODO
 
-- add GH Action
