@@ -1,19 +1,20 @@
-# from https://github.com/marketplace/actions/gatsby-publish, my fork of it
+name: website
 
-name: Gatsby Publish
-
-on:
-  push:
-    branches:
-      - master
+on: push
 
 jobs:
-  build:
-    runs-on: ubuntu-18.04
+  publish:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: alpiepho/gatsby-gh-pages-action@v3.1 
-        with:
-          access-token: ${{ secrets.ACCESS_TOKEN }}
-          deploy-branch: gh-pages
-          gatsby-args: --prefix-paths
+      -
+        name: Checkout
+        uses: actions/checkout@v1
+      - 
+        name: Deploy
+        uses: peaceiris/actions-gh-pages@v2
+        env:
+          # ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: ./public
