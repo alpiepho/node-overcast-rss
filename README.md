@@ -35,15 +35,6 @@ npm start  > podcast-summary.mdx
  
 ### TODO
 
-- FINISH converting build_summary.js (from node-repodata) to read overcast.opml and visit links)
-- build json
-  - title
-  - htmlUrl
-  - xmlUrl
-  - imageUrl
-  - itunes:category (multi, sub)
-  - description
-  - subtitle
 - build .mdx (podcast-summary.mdx)
 - generate html (like pup-learning)
 - refactor with main.js
