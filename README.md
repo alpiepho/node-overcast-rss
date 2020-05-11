@@ -33,9 +33,12 @@ npm install
 npm start  > podcast-summary.mdx
 ```
  
+### Local Test of index.html
+
+- cd public
+- python -m SimpleHTTPServer
+- open http://localhost:8000/
+
 ### TODO
 
-- build .mdx (podcast-summary.mdx)
-- generate html (like pup-learning)
-- refactor with main.js
 - add GH Action

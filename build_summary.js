@@ -5,142 +5,147 @@ var axios = require("axios")
 const fs = require('fs'); 
 const parser = require('xml2json');
 
-const JSON_FILE = "./summary.json";
+const JSON_FILE = "./artifacts/summary.json";
+const HTML_FILE = "./public/index.html";
+const MD_FILE = "./artifacts/podcast-summary.mdx";
 
-// var MAX_GHAPI_PAGEPER = 100
-// var MAX_GHAPI_MAXPAGES = 2
-// var github_base =
-//   "https://api.github.com/users/alpiepho/repos?per_page=" +
-//   MAX_GHAPI_PAGEPER +
-//   "&page="
+const html1 = `
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width", initial-scale=1.0"/>
+    <meta name="Description" content="Podcast Subscriptions">
+    <meta name="theme-color" content="#d36060"/>
+    <title>
+    Podcast Subscriptions
+    </title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="icon"
+      type="image/png" 
+      href="./favicon.ico" />
+  </head>
+  <body class="body">
+    <main>
+    <article class="page">
+      <h1  id=\"top\">Podcast Subscriptions</h1>
 
-// header =
-//   '\
-// ---\n\
-// title: Github Repos\n\
-// date: "2020-04-18"\n\
-// description: "Summary of my Github Repos"\n\
-// ---\n\
-// \n\
-// (Warning: many images) This a summary of all the Github Repos I have added over the years.  Some are forks of other projects with minor changes.  Most are orignal works.\n\
-// '
+      <div class="introduction">
+      <p>
+      This a summary of all my Podcast Subscriptions on the Overcast app. 
+      This was derived from exporting the list from Overcast, parsing that list, and parsing each
+      rss feed for various pieces of information.
+      </p>
+      <p>
+      This list is generated from a tool called "node-overcast-rss" that can be found
+      <a
+        href="https://github.com/alpiepho/node-overcast-rss"
+        target="_blank"
+        rel="noreferrer"
+      >here</a>.  This tool needs to be run manually after using the phone app to export and
+      copy the subscription list (.ompl) file to this project.
+      </p>
+      </div>
+`;
 
-// // these are extra notes to be aded to the generated summary page based on the repo name
-// extraFields = require('./extra.json')
-// privateRepos = [] //require('./private.json')
+const html2 = `
+    <div id=\"bottom\"></div>
+    </article>
+  </body>
+</html>
+`;
 
-// function inExtra(name) {
-//   for (i = 0; i < extraFields.length; i++) {
-//     if (name.trim() == extraFields[i].name.trim())
-//       return [extraFields[i].notes, extraFields[i].ideas]
-//   }
-//   return ["", ""]
-// }
+const md1 = `---
+title: My Podcast Subscriptions
+date: "2020-05-10"
+description: "My Podcast Subscriptions"
+---
 
-// function addExtra(array) {
-//   array.forEach((element) => {
-//     [element.notes, element.ideas] = inExtra(element.name)
-//   })
-// }
+(Warning: many images) This a summary of all my Podcast Subscriptions on the Overcast app. 
+This was derived from exporting the list from Overcast, parsing that list, and parsing each
+rss feed for various pieces of information.
 
-// // github api isnt letting em get private repos, created private.json by hand
-// function addPrivate(array) {
-//   privateRepos.forEach((element) => {
-//     array.push(element)
-//   })
-// }
+A full summary with more details can be found [here](https://alpiepho.github.io/node-overcast-rss/).
 
-// function sortByKey(array, key) {
-//   return array.sort(function (a, b) {
-//     var x = a[key].toLowerCase()
-//     var y = b[key].toLowerCase()
-//     return x < y ? -1 : x > y ? 1 : 0
-//   })
-// }
+#### top
 
-// function getCounts(array) {
-//   privateCount = 0
-//   publicCount = 0
-//   forkCount = 0
-//   array.forEach((element) => {
-//     if (element.private) privateCount += 1
-//     if (!element.private) publicCount += 1
-//     if (element.fork) forkCount += 1
-//   })
-//   return [privateCount, publicCount, forkCount]
-// }
+`;
 
-function finish(jsonData) {
-//   addExtra(jsonData)
-//   addPrivate(jsonData)
-//   jsonData = sortByKey(jsonData, "name")
+const md2 = `
 
-//   let privateCount, publicCount, forkCount
-//   [privateCount, publicCount, forkCount] = getCounts(jsonData)
-//   publicCount -= forkCount
+#### bottom
+`;
 
-//   header +=
-//     "\
-//   \n\
-//   **NOTE:** This page is generated from a set of JSON data gathered from Github.\n\
-//   \n\
-//   **NOTE:** This lists " +
-//     jsonData.length +
-//     " repos total, " + forkCount + " forked, and " + publicCount + " my public.\n\
-//   \n\
-//   \n"
-
-//   console.log(header)
-
-//   // DEBUG: dump names in order so they can be cut/paste
-//   // jsonData.forEach(element => {
-//   //   console.log("  {");
-//   //   console.log("    \"name\": \"" + element.name + "\",");
-//   //   //console.log("    \"description\": \"" + element.description + "\",");
-//   //   [ notes, ideas ] = inExtra(element.name);
-//   //   console.log("    \"notes\": \"" + notes + "\",");
-//   //   console.log("    \"ideas\": \"" + ideas + "\"");
-//   //   console.log("  },");
-//   // });
-
-//   jsonData.forEach((element, index) => {
-//     preString = ""
-//     if (element.fork)
-//       preString = '<span style="color:orange;font-weight:200">[fork]</span> '
-//     if (element.private)
-//       preString = '<span style="color:orange;font-weight:200">[private]</span> '
-//     languageStr = ""
-//     if (element.language)
-//       languageStr =
-//         '<span style="color:grey;font-weight:200">[' +
-//         element.language.toLowerCase() +
-//         "]</span> "
-//     console.log(
-//       "### " + (index + 1) + ") " + preString + element.name + languageStr
-//     )
-//     if (element.png) {
-//       console.log(
-//         "[](../assets/github-repos__screenshot-" + element.id + ".png)"
-//       )
-//     }
-//     if (element.hasREADMEmd) {
-//       console.log(
-//         "[" + element.name + "](" + element.html_url + "/blob/master/README.md)"
-//       )  
-//     } else {
-//       console.log(
-//         "[" + element.name + "](" + element.html_url + ")"
-//       )  
-//     }
-//     description = "(see link)"
-//     if (element.description) description = element.description
-//     console.log(": " + description)
-//     if (element.notes) console.log("- " + element.notes)
-//     if (element.ideas) console.log("- " + element.ideas)
-//     console.log("")
-//   })
+function sortByKey(array, key) {
+  return array.sort(function (a, b) {
+    var x = a[key].toLowerCase()
+    var y = b[key].toLowerCase()
+    return x < y ? -1 : x > y ? 1 : 0
+  })
 }
 
+function build_html(data) {
+  // generate artifacts from data - html
+  let htmlStr = html1;
+  htmlStr += "      <br/><p>Total Subscriptions: " + data['list'].length + "</p><br/>\n\n";
+  htmlStr += "      <ul>\n";
+  data['list'].forEach(entry => {
+    htmlStr += "            <li>\n";
+    htmlStr += "              <ul>\n";
+    htmlStr += "                <li>\n";
+
+    if (entry['image']) {
+      htmlStr += "                  <p><img src=\"" + entry['image'] + "\"</img></p>\n";
+    }
+
+    htmlStr += "                  <a target=\"_blank\" href=\"" + entry['link'] + "\">\n";
+    htmlStr += "                    " + entry['title'] + "\n";
+    htmlStr += "                  </a>\n";
+    htmlStr += "                </li>\n";
+    htmlStr += "                <li class=\"subtitle\">Subtitle: " + entry['subtitle'] + "</li>\n";
+    htmlStr += "                <li class=\"description\">Description: " + entry['description'] + "</li>\n";
+    htmlStr += "                <li class=\"categories\">Categories: " + entry['categories'].join(', ') + "</li>\n";
+    htmlStr += "                <li><a href=\"#top\">top</a> / <a href=\"#bottom\">bottom</a></li>\n";
+    htmlStr += "              </ul>\n";
+    htmlStr += "            </li>\n";
+  });
+  htmlStr += "      </ul>";
+  htmlStr += html2;
+  fs.writeFileSync(HTML_FILE, htmlStr);
+}
+
+
+function build_md(data) {
+  // generate markdown (.mdx) for blog
+  let mdStr = md1;
+  mdStr += "Total Subscriptions: " + data['list'].length + "\n";
+  mdStr += "<br/>\n";
+  mdStr += "<br/>\n";
+  mdStr += "<br/>\n";
+  mdStr += "\n";
+  data['list'].forEach(entry => {
+    mdStr += "\n";
+    if (entry['image']) {
+      mdStr += "![](" + entry['image'] + ")\n";
+    }
+    mdStr += "\n";
+    mdStr += "[" + entry['title'] + "](" + entry['link'] + ")\n";
+    if (entry['subtitle'] && entry['subtitle'] != entry['title'] && entry['subtitle'] != entry['description']) {
+      mdStr += "- Subtitle: " + entry['subtitle'] + "\n";
+    }
+    mdStr += "- Description: " + entry['description'] + "\n";
+    mdStr += "- Categories: " + entry['categories'].join(', ') + "\n";
+    mdStr += "- [top](#top) / [bottom](#bottom)\n";
+
+    mdStr += "<br/>\n";
+    mdStr += "<br/>\n";
+    mdStr += "<br/>\n";
+      mdStr += "\n";
+  });
+  mdStr += md2;
+  fs.writeFileSync(MD_FILE, mdStr);
+}
 
 
 function main() {
@@ -181,6 +186,7 @@ function main() {
           //element.partial = response.data.slice(0,30);
           let feedJson = JSON.parse(parser.toJson(response.data));
           element['description'] = feedJson['rss']['channel']['description'];
+          element['description'] = element['description'].replace('<br>', '<br/>');
           if (feedJson['rss']['channel']['image']) {
             element['image'] = feedJson['rss']['channel']['image']['url'];
           }
@@ -209,13 +215,13 @@ function main() {
       )
     })
     Promise.all(promises).then(() => {
-      // save data as summary.json
-      fs.writeFileSync(JSON_FILE, JSON.stringify(data, null, 2));
+      data['list'] = sortByKey(data['list'], "title")
 
-      // TODO from summary.json, generate podcast-summary.mdx file
-      // TODO from summary.json, generate index.html file
+      fs.writeFileSync(JSON_FILE, JSON.stringify(data, null, 2));
+      build_html(data);
+      build_md(data);
+    
       // TODO add steps to deploy
-      finish(data);
     })
   })  
 }
