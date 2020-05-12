@@ -8,8 +8,7 @@
         "Technology"
       ],
       "description": ".NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.",
-      "image": "http://www.pwop.com/itunes_dnr.jpg",
-      "subtitle": ".NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers."
+      "image": "http://www.pwop.com/itunes_dnr.jpg"
     },
     {
       "title": "Acquired",
@@ -45,8 +44,7 @@
         "History"
       ],
       "description": "<p>DNA science. Artificial intelligence. Smartphones and 3D printers. Science and technology have transformed the world we live in. But how did we get here? It wasn’t by accident. Well, sometimes it was. It was also the result of hard work, teamwork, and competition. And incredibly surprising moments.</p><p>Hosted by bestselling author Steven Johnson (“How We Got To Now”), American Innovations uses immersive scenes to tell the stories of the scientists, engineers, and ordinary people behind the greatest discoveries of the past century. From Wondery, the network behind Business Wars, American History Tellers, and Dirty John. </p>",
-      "image": "https://content.production.cdn.art19.com/images/8d/72/58/ea/8d7258ea-970c-421f-86c3-921620c16efd/57a79bd6a8e240aec9b8d32edbea5fb8e92a60ff7eed14040218edbffe059b40035a8ebc882e9ba5cef1b8f5386239d4d131d1e4b524fc40c0fbb38469857d06.jpeg",
-      "subtitle": ""
+      "image": "https://content.production.cdn.art19.com/images/8d/72/58/ea/8d7258ea-970c-421f-86c3-921620c16efd/57a79bd6a8e240aec9b8d32edbea5fb8e92a60ff7eed14040218edbffe059b40035a8ebc882e9ba5cef1b8f5386239d4d131d1e4b524fc40c0fbb38469857d06.jpeg"
     },
     {
       "title": "Analyse Asia with Bernard Leong",
@@ -56,7 +54,7 @@
         "Business"
       ],
       "description": "Analyse Asia with Bernard Leong is a weekly podcast dedicated to the pulse of technology, business and media in Asia. We interview thought leaders and leading industry players and gain their insights to how we perceive and understand the market.",
-      "image": "http://static.libsyn.com/p/assets/7/a/7/c/7a7c739cc97a3fb8/Twitter_black-690.jpg",
+      "image": "https://ssl-static.libsyn.com/p/assets/7/a/7/c/7a7c739cc97a3fb8/Twitter_black-690.jpg",
       "subtitle": "Pulse of Technology, Media & Business in Asia"
     },
     {
@@ -67,8 +65,7 @@
         "News"
       ],
       "description": "The AWS Podcast is the definitive cloud platform podcast for developers, dev ops, and cloud professionals seeking the latest news and trends in storage, security, infrastructure, serverless, and more. Join Simon Elisha and Jeff Barr for regular updates, deep dives and interviews. Whether you’re building machine learning and AI models, open source projects, or hybrid cloud solutions, the AWS Podcast has something for you.",
-      "image": "http://d3gih7jbfe3jlq.cloudfront.net/AWS-Podcast-Title-Art.jpg",
-      "subtitle": "The AWS Podcast is the definitive cloud platform podcast for developers, dev ops, and cloud professionals seeking the latest news and trends in storage, security, infrastructure, serverless, and more. Join Simon Elisha and Jeff Barr for regular updates, deep dives and interviews. Whether you’re building machine learning and AI models, open source projects, or hybrid cloud solutions, the AWS Podcast has something for you."
+      "image": "http://d3gih7jbfe3jlq.cloudfront.net/AWS-Podcast-Title-Art.jpg"
     },
     {
       "title": "Base.cs Podcast",
@@ -102,8 +99,7 @@
         "History"
       ],
       "description": "<p>Netflix vs. HBO. Nike vs. Adidas. Business is war. Sometimes the prize is your wallet or your attention. Sometimes, it’s just the fun of beating the other guy. The outcome of these battles shapes what we buy and how we live.&nbsp;</p><p>Business Wars gives you the unauthorized, real story of what drives these companies and their leaders, inventors, investors and executives to new heights -- or to ruin. Hosted by David Brown, former anchor of Marketplace. From Wondery, the network behind Dirty John and American History Tellers.</p>",
-      "image": "https://content.production.cdn.art19.com/images/72/49/f7/a4/7249f7a4-163e-443e-9d0b-c4d2133eb36c/28ee9ab994e1d3017649f8beb239f7f01c4c677cd3dce26ccec4a27f8c066901c8de40be841fe20e91c8ec5b8713ae3fda343671b3dbf73b9bd537cee88d7988.jpeg",
-      "subtitle": ""
+      "image": "https://content.production.cdn.art19.com/images/72/49/f7/a4/7249f7a4-163e-443e-9d0b-c4d2133eb36c/28ee9ab994e1d3017649f8beb239f7f01c4c677cd3dce26ccec4a27f8c066901c8de40be841fe20e91c8ec5b8713ae3fda343671b3dbf73b9bd537cee88d7988.jpeg"
     },
     {
       "title": "Channel 9",
@@ -113,8 +109,7 @@
         "Technology"
       ],
       "description": "Channel 9 is a community. We bring forward the people behind our products and connect them with those who use them. We think there is a great future in software and we're excited about it. We want the community to participate in the ongoing conversation. This is the heart of Channel 9. We talk about our work but listen to the customer.",
-      "image": "https://sec.ch9.ms/content/feedimage.png",
-      "subtitle": ""
+      "image": "https://sec.ch9.ms/content/feedimage.png"
     },
     {
       "title": "Code[ish]",
@@ -124,8 +119,7 @@
         "Technology"
       ],
       "description": "A podcast from the team at Heroku, exploring code, technology, tools, tips, and the life of the developer.",
-      "image": "https://s3.amazonaws.com/heroku-www-files/podcasts/codeish/codeish-logo.png",
-      "subtitle": ""
+      "image": "https://s3.amazonaws.com/heroku-www-files/podcasts/codeish/codeish-logo.png"
     },
     {
       "title": "CodePen Radio",
@@ -146,8 +140,7 @@
         "Technology"
       ],
       "description": "Podcast by Alex Wood & Robb Reck",
-      "image": "http://i1.sndcdn.com/avatars-R0KDnFQGdx2mGy1a-buCGnQ-original.jpg",
-      "subtitle": "Podcast by Alex Wood & Robb Reck"
+      "image": "http://i1.sndcdn.com/avatars-R0KDnFQGdx2mGy1a-buCGnQ-original.jpg"
     },
     {
       "title": "Command Line Heroes",
@@ -159,8 +152,7 @@
         "Business"
       ],
       "description": "Stories about the people transforming technology from the command line up.",
-      "image": "https://cdn.simplecast.com/images/a88fbe81-5614-4834-8a78-24c287debbe6/091bd7ce-ee25-4651-b477-f34f185bf5e6/3000x3000/1535059689artwork.jpg?aid=rss_feed",
-      "subtitle": ""
+      "image": "https://cdn.simplecast.com/images/a88fbe81-5614-4834-8a78-24c287debbe6/091bd7ce-ee25-4651-b477-f34f185bf5e6/3000x3000/1535059689artwork.jpg?aid=rss_feed"
     },
     {
       "title": "CYBER",
@@ -197,8 +189,7 @@
         "Technology"
       ],
       "description": "A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.",
-      "image": "https://media.simplecast.com/podcast/image/279/1413649662-artwork.jpg",
-      "subtitle": "A podcast for developers interested in building great software products."
+      "image": "https://media.simplecast.com/podcast/image/279/1413649662-artwork.jpg"
     },
     {
       "title": "Gadgets & Tech – Spoken Edition",
@@ -208,8 +199,7 @@
         "Technology"
       ],
       "description": "Gizmodo provides information and articles related to technology, design, and social trends.     A SpokenEdition transforms written content into human-read audio you can listen to anywhere. It's perfect for times when you can't read - while driving, at the gym, doing chores, etc. Find more at www.spokenedition.com",
-      "image": "http://media.spokenlayer.com/cover-art/2016/08/04/gawker-gizmodo-1400x1400.png",
-      "subtitle": ""
+      "image": "http://media.spokenlayer.com/cover-art/2016/08/04/gawker-gizmodo-1400x1400.png"
     },
     {
       "title": "Go Time",
@@ -219,8 +209,7 @@
         "Technology"
       ],
       "description": "A diverse panel and special guests discuss cloud infrastructure, distributed systems, microservices, Kubernetes, Docker…oh and also Go!  Panelists include Mat Ryer, Ashley McNamara, Johnny Boursiquot, Carmen Andoh, Jaana B. Dogan (JBD), Mark Bates, and Jon Calhoun.\n\nThis show records LIVE every Tuesday at 3pm US Eastern. Join the Golang community and chat with us during the show in the #gotimefm channel of Gophers slack.\n\nSome people search for GoTime or GoTimeFM and can't find the show, so now the strings GoTime and GoTimeFM are in our description too.",
-      "image": "https://cdn.changelog.com/uploads/covers/go-time-original.png?v=63725770357",
-      "subtitle": ""
+      "image": "https://cdn.changelog.com/uploads/covers/go-time-original.png?v=63725770357"
     },
     {
       "title": "Grumpy Old Geeks",
@@ -232,8 +221,19 @@
         "Comedy"
       ],
       "description": "<p>A no-holds-barred show about the Internet and how it's affecting our lives for good or bad. Hosts Jason DeFillippo &amp; Brian Schulmeister have over 40 years of online experience and aren't afraid to tell it like it is. </p>",
-      "image": "https://content.production.cdn.art19.com/images/65/0e/01/44/650e0144-b9d5-4895-8cff-325b7ae1f8a4/9d7feb0d3b075e38b7cecbe4e82893b7e0299366bfd02a0fc4bf504664632fea9f3700a04f2c5ea5f3887cda2e5e7ade349e157a06c093affcc77deb4c2fcef5.jpeg",
-      "subtitle": ""
+      "image": "https://content.production.cdn.art19.com/images/65/0e/01/44/650e0144-b9d5-4895-8cff-325b7ae1f8a4/9d7feb0d3b075e38b7cecbe4e82893b7e0299366bfd02a0fc4bf504664632fea9f3700a04f2c5ea5f3887cda2e5e7ade349e157a06c093affcc77deb4c2fcef5.jpeg"
+    },
+    {
+      "title": "Guy Kawasaki's Remarkable People",
+      "link": "https://guykawasaki.com/remarkable-people/",
+      "rss": "https://feeds.simplecast.com/A7fI4ltj",
+      "categories": [
+        "Society & Culture",
+        "Business",
+        "Technology"
+      ],
+      "description": "Guy Kawasaki's Remarkable People features interviews with thought leaders, legends, and iconoclasts such as Jane Goodall, Stephen Wolfram, Margaret Atwood, Woz, Martha Stewart, and Leon Panetta. Every episode will make you a little more remarkable.",
+      "image": "https://cdn.simplecast.com/images/479a5b0a-68f9-4d44-bc87-aaa31e90ca64/fbc37200-123b-4bc3-aa68-44ee0f76295f/3000x3000/guy-kawasakis-remarkable-people-8.jpg?aid=rss_feed"
     },
     {
       "title": "Hackable?",
@@ -257,8 +257,7 @@
         "Technology"
       ],
       "description": "Each week the CyberWire’s Hacking Humans Podcast looks behind the social engineering scams, phishing schemes, and criminal exploits that are making headlines and taking a heavy toll on organizations around the world. We talk to social engineering experts, security pros, cognitive scientists, and those practiced in the arts of deception (perhaps even a magician or two). We also hear from people targeted by social engineering attacks and learn from their experiences.",
-      "image": "http://static.libsyn.com/p/assets/3/1/c/a/31caf71010865f3d/Hacking-Humans-iTunes-art-1400x1400.jpg",
-      "subtitle": ""
+      "image": "http://static.libsyn.com/p/assets/3/1/c/a/31caf71010865f3d/Hacking-Humans-iTunes-art-1400x1400.jpg"
     },
     {
       "title": "Hush Money",
@@ -269,8 +268,7 @@
         "Society & Culture"
       ],
       "description": "Let’s talk about money — but not *boring* money. Entrepreneur editor-in-chief Jason Feifer and money expert Nicole Lapin go straight at the most taboo, awkward situations where money impacts our lives, relationships, and careers. In each episode they debate the trickiest questions, offering genuine financial advice about typically hush-hush issues. Then they bring in a celebrity judge to decide who’s right.",
-      "image": "https://images.megaphone.fm/OKmFvrQpRibCKEuvodekxVKHk_-zeDNGXz3uMBO57yE/plain/s3://megaphone-prod/podcasts/cf256908-4505-11e9-a6f3-9bc4339aa07c/image/uploads_2F1563574766171-3e67685am64-8061c675b44b181e05fddc5106160fe1_2FHushMoney-Logo-FINAL-3000x3000-iHR.png",
-      "subtitle": ""
+      "image": "https://images.megaphone.fm/OKmFvrQpRibCKEuvodekxVKHk_-zeDNGXz3uMBO57yE/plain/s3://megaphone-prod/podcasts/cf256908-4505-11e9-a6f3-9bc4339aa07c/image/uploads_2F1563574766171-3e67685am64-8061c675b44b181e05fddc5106160fe1_2FHushMoney-Logo-FINAL-3000x3000-iHR.png"
     },
     {
       "title": "Inside ASU",
@@ -278,8 +276,7 @@
       "rss": "http://feed.theplatform.com/f/U8-EDC/IOuJoNNsf_8o",
       "categories": [],
       "description": "If you’re planning to come to Arizona State University, there are a few things to know before you start. Inside ASU offers info to get you ready for your ASU experience. Join two Sun Devils who share tips they’ve picked up, and before you know it, you’ll be ready to confidently start your Sun Devil adventure.",
-      "image": "http://jkcoze-sc.storage.googleapis.com/ASU_-_Instructional_Support/154/1007/Inside_ASU_Podcast_v4_1400x1400.jpg",
-      "subtitle": "If you’re planning to come to Arizona State University, there are a few things to know before you start. Inside ASU offers info to get you ready for your ASU experience. Join two Sun Devils who share tips they’ve picked up, and before you know it, you’ll be ready to confidently start your Sun Devil adventure."
+      "image": "http://jkcoze-sc.storage.googleapis.com/ASU_-_Instructional_Support/154/1007/Inside_ASU_Podcast_v4_1400x1400.jpg"
     },
     {
       "title": "Intelligence Squared",
@@ -319,8 +316,7 @@
         "News"
       ],
       "description": "A show all about the JAMstack, a new way to build fast & secure apps or websites.",
-      "image": "https://d3aeja1uqhkije.cloudfront.net/podcasts/jamstack-radio/jamstack-radio.jpg",
-      "subtitle": "A show all about the JAMstack, a new way to build fast & secure apps or websites."
+      "image": "https://d3aeja1uqhkije.cloudfront.net/podcasts/jamstack-radio/jamstack-radio.jpg"
     },
     {
       "title": "JavaScript Jabber",
@@ -343,8 +339,7 @@
         "Religion & Spirituality"
       ],
       "description": "Joel Osteen Podcast",
-      "image": "http://www.joelosteen.com//_controltemplates/Widgets/Styles/Images/podcastaudio3b.jpg",
-      "subtitle": "Joel Osteen Podcast"
+      "image": "http://www.joelosteen.com//_controltemplates/Widgets/Styles/Images/podcastaudio3b.jpg"
     },
     {
       "title": "JS Party: JavaScript & Web Dev",
@@ -354,8 +349,7 @@
         "Technology"
       ],
       "description": "A community celebration of JavaScript and the web.  This show records LIVE on Thursdays at 1pm US/Eastern time. Panelists include Suz Hinton, Feross Aboukhadijeh, Kevin Ball, Emma Wedekind, Jerod Santo, Nick Nisi, Divya Sasidharan, Mikeal Rogers, and Chris Hiller.\n\nTopics discussed include the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (React, Ember, Angular, Vue, etc), Node.js, web animation, SVG, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show’s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
-      "image": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332",
-      "subtitle": ""
+      "image": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
     },
     {
       "title": "Kubernetes Podcast from Google",
@@ -366,8 +360,7 @@
         "News"
       ],
       "description": "A weekly podcast focused on what's happening in the Kubernetes community covering Kubernetes, cloud-native applications, and other developments in the Kubernetes community. Co-hosts Adam Glick and Craig Box can be reached on Twitter at @KubernetesPod or by email at kubernetespodcast@google.com.",
-      "image": "https://kubernetespodcast.com/_assets/images/Kubernetes-Podcast-Logo_1400x1400.png",
-      "subtitle": "A weekly podcast focused on what's happening in the Kubernetes community"
+      "image": "https://kubernetespodcast.com/_assets/images/Kubernetes-Podcast-Logo_1400x1400.png"
     },
     {
       "title": "Land of the Giants",
@@ -401,8 +394,7 @@
         "Technology"
       ],
       "description": "Technology is the making, modification, usage, and knowledge of tools, machines, techniques, crafts, systems, methods of organization, in order to solve a problem.     A SpokenEdition transforms written content into human-read audio you can listen to anywhere. It's perfect for times when you can't read - while driving, at the gym, doing chores, etc. Find more at www.spokenedition.com",
-      "image": "http://media.spokenlayer.com/cover-art/2016/09/29/mashable-blue-9-26-1400x1400.png",
-      "subtitle": ""
+      "image": "http://media.spokenlayer.com/cover-art/2016/09/29/mashable-blue-9-26-1400x1400.png"
     },
     {
       "title": "Mobituaries with Mo Rocca",
@@ -413,8 +405,7 @@
         "Society & Culture"
       ],
       "description": "Mo Rocca has always loved obituaries. In season 1 of Mobituaries he introduces listeners to the people who have long intrigued him—from the 20th century’s greatest entertainer … to the Civil Rights pioneer who is completely forgotten … to sitcom characters gone all too soon. Even if you know the names, you’ve never understood why they matter…until now. And if you enjoy these episodes, look for more stories of  great lives worth reliving when Mobituaries returns for season 2 in fall 2019.",
-      "image": "https://content.production.cdn.art19.com/images/29/6a/3a/b4/296a3ab4-d995-40c3-a819-54e951f34ccd/644797315e2e4f790a2d5324d549ec25f49def8f46e42cdb9acb6946bd4d1fce4ec4fb11b5e257f26e0ce17749d072c6be34a4e568318c9ebc100901645cc03c.jpeg",
-      "subtitle": ""
+      "image": "https://content.production.cdn.art19.com/images/29/6a/3a/b4/296a3ab4-d995-40c3-a819-54e951f34ccd/644797315e2e4f790a2d5324d549ec25f49def8f46e42cdb9acb6946bd4d1fce4ec4fb11b5e257f26e0ce17749d072c6be34a4e568318c9ebc100901645cc03c.jpeg"
     },
     {
       "title": "Modern Web",
@@ -436,8 +427,7 @@
         "Business"
       ],
       "description": "<p>My name is Jay Shetty, and my purpose is to make wisdom go viral. I’m fortunate to have fascinating conversations with the most insightful people in the world, and on my podcast, I’m sharing those conversation with you. New episodes Mondays and Fridays. Listen anywhere you get your podcasts, and please rate and review the podcast if you enjoy it. Live life today ON PURPOSE. </p>",
-      "image": "https://content.production.cdn.art19.com/images/f5/09/30/c2/f50930c2-9b1e-43c9-821c-6f6aaeb1bf39/98bbe3233831d50db6d97289bc802b97d23ae376d5f15d783e84cf8788029400ca413041037d9179407e2178434ed735f59538291a926565e1bc4419595be135.jpeg",
-      "subtitle": ""
+      "image": "https://content.production.cdn.art19.com/images/f5/09/30/c2/f50930c2-9b1e-43c9-821c-6f6aaeb1bf39/98bbe3233831d50db6d97289bc802b97d23ae376d5f15d783e84cf8788029400ca413041037d9179407e2178434ed735f59538291a926565e1bc4419595be135.jpeg"
     },
     {
       "title": "Pessimists Archive",
@@ -447,8 +437,7 @@
         "Technology"
       ],
       "description": "Why do people keep resisting new things? That’s the question Pessimists Archive tries to answer. In each episode, we travel back in time to the moment that a new technology or innovation was introduced—something that today we think of as totally commonplace!—and we explore why everyone was freaking out about it. Our hope is this: By seeing how repetitive and often silly yesterday's fears were, we can begin to defang today’s fears as well.\n\nPessimists Archive is hosted by Jason Feifer. Follow us on Twitter at @pessimistsarc, which is run by Louis Anslow. Our email is pessimistsarchive@gmail.com, and website is pessimists.co.",
-      "image": "http://i1.sndcdn.com/avatars-000385073390-fyvstl-original.jpg",
-      "subtitle": "Why do people keep resisting new things? That’s t…"
+      "image": "http://i1.sndcdn.com/avatars-000385073390-fyvstl-original.jpg"
     },
     {
       "title": "Pivot",
@@ -458,8 +447,8 @@
         "News",
         "Technology"
       ],
-      "description": "Every Tuesday and Friday, Recode’s Kara Swisher and NYU Professor Scott Galloway offer sharp, unfiltered insights into the biggest stories in tech, business, and politics. They make bold predictions, pick winners and losers, and bicker and banter like no one else. After all, with great power comes great scrutiny. Produced by Recode and the Vox Media Podcast Network.",
-      "image": "https://images.megaphone.fm/qstI0jy_0WWYlS3DY6smJKNv0r-3-uYJs0O3xpB1_QI/plain/s3://megaphone-prod/podcasts/d6280242-e5c9-11e8-a7e3-d766bb7d2d3e/image/uploads_2F1567104842027-m33h9fp5qwf-94e898d3acc5a274bceaaca99be8633f_2FPivot_Tile_3000x3000.png",
+      "description": "Every Tuesday and Friday, Recode’s Kara Swisher and NYU Professor Scott Galloway offer sharp, unfiltered insights into the biggest stories in tech, business, and politics. They make bold predictions, pick winners and losers, and bicker and banter like no one else. After all, with great power comes great scrutiny. From New York Magazine and the Vox Media Podcast Network.",
+      "image": "https://images.megaphone.fm/VuF63M4MwcICdQGopkHf92R-t_440tpJrINA1u4gX4U/plain/s3://megaphone-prod/podcasts/d6280242-e5c9-11e8-a7e3-d766bb7d2d3e/image/uploads_2F1589209751803-3cf2fk1zbft-d7b74cb4d52d7b18877546f240df7151_2FPivot_TileArt_FINAL.png",
       "subtitle": "With great power comes great scrutiny."
     },
     {
@@ -470,8 +459,7 @@
         "Technology"
       ],
       "description": "Making artificial intelligence practical, productive, and accessible to everyone.  Practical AI is a show in which technology professionals, business people, students, enthusiasts, and expert guests engage in lively discussions about Artificial Intelligence and related topics (Machine Learning, Deep Learning, Neural Networks, etc). The focus is on productive implementations and real-world scenarios that are accessible to everyone. If you want to keep up with the latest advances in AI, while keeping one foot in the real world, then this is the show for you!",
-      "image": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374",
-      "subtitle": ""
+      "image": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
     },
     {
       "title": "Python Bytes",
@@ -494,8 +482,7 @@
         "Education"
       ],
       "description": "React Native Radio Podcast",
-      "image": "https://s3.amazonaws.com/devchat.tv/react-native-radio-album-art.jpg",
-      "subtitle": "React Native Radio Podcast"
+      "image": "https://s3.amazonaws.com/devchat.tv/react-native-radio-album-art.jpg"
     },
     {
       "title": "React Podcast",
@@ -507,8 +494,7 @@
         "Technology"
       ],
       "description": "Conversations about React with your favorite developers.",
-      "image": "https://media.simplecast.com/podcast/image/6265/1550288890-artwork.jpg",
-      "subtitle": "Conversations about React with your favorite developers.."
+      "image": "https://media.simplecast.com/podcast/image/6265/1550288890-artwork.jpg"
     },
     {
       "title": "Recorded Future - Inside Threat Intelligence for Cyber Security",
@@ -529,8 +515,7 @@
         "Technology"
       ],
       "description": "Risky Business is a weekly information security podcast featuring news and in-depth interviews with industry luminaries. Launched in February 2007, Risky Business is a must-listen digest for information security pros. With a running time of approximately 50-60 minutes, Risky Business is pacy; a security podcast without the waffle.",
-      "image": "https://risky.biz/static/img/rbipod2.jpg",
-      "subtitle": ""
+      "image": "https://risky.biz/static/img/rbipod2.jpg"
     },
     {
       "title": "Robot or Not?",
@@ -540,8 +525,7 @@
         "Society & Culture"
       ],
       "description": "Jason Snell asks John Siracusa to rule on the meaning of various words and concepts. It’s not just about robots anymore.",
-      "image": "https://www.theincomparable.com/imgs/logos/logo-robot-3x.jpg?cache-buster=2017-06-11",
-      "subtitle": ""
+      "image": "https://www.theincomparable.com/imgs/logos/logo-robot-3x.jpg?cache-buster=2017-06-11"
     },
     {
       "title": "SANS Internet Stormcenter Daily Network/Cyber Security and Information Security Stormcast",
@@ -590,8 +574,7 @@
         "Technology"
       ],
       "description": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.",
-      "image": "https://download.softskills.audio/sse-cover-art.png",
-      "subtitle": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer."
+      "image": "https://download.softskills.audio/sse-cover-art.png"
     },
     {
       "title": "Software Engineering Daily",
@@ -612,8 +595,7 @@
         "Business"
       ],
       "description": "Corporate crookedness. Family feuding. Hilariously half-baked decisions. Host Lauren Ober tackles some of the most spectacular business failures of all time, and what could have been done to avoid them. Some of these stories are shocking. Some are funny. Some are just downright sad. But each one will give you a totally new perspective on big business… and big failure. From American Public Media and the Carlson School of Management at the University of Minnesota.",
-      "image": "https://img.apmcdn.org/f9273c34e08d73c788c7ecebd8744ba9ac6f2084/uncropped/cf14b0-20190529-spectacular-failures-podcast.jpg",
-      "subtitle": ""
+      "image": "https://img.apmcdn.org/f9273c34e08d73c788c7ecebd8744ba9ac6f2084/uncropped/cf14b0-20190529-spectacular-failures-podcast.jpg"
     },
     {
       "title": "Steve Forbes: What's Ahead",
@@ -623,8 +605,7 @@
         "Business"
       ],
       "description": "<p>In an uncertain and rapidly changing world, Steve Forbes sits down with today’s leading business and economic minds to give listeners a better grasp of what’s ahead, and shares his own perspectives on the day’s most pressing issues. </p>",
-      "image": "https://content.production.cdn.art19.com/images/41/0f/49/ef/410f49ef-402d-4712-8aea-0743ac8bd203/43979d793735ecc905080f7fdd97e32a76bb9ea8abc9e604787d1993e8951a855890ccbb3e58fdc881ac56a1660fe9ca0bef3ac803202fd886ef21bd7c24d68c.jpeg",
-      "subtitle": ""
+      "image": "https://content.production.cdn.art19.com/images/41/0f/49/ef/410f49ef-402d-4712-8aea-0743ac8bd203/43979d793735ecc905080f7fdd97e32a76bb9ea8abc9e604787d1993e8951a855890ccbb3e58fdc881ac56a1660fe9ca0bef3ac803202fd886ef21bd7c24d68c.jpeg"
     },
     {
       "title": "Syntax - Tasty Web Development Treats",
@@ -659,8 +640,7 @@
         "Technology"
       ],
       "description": "<p>The day's tech news, every day at 5pm. From Techmeme.com, Silicon Valley's most-read news source. 15 minutes and you're up to date. </p>",
-      "image": "https://content.production.cdn.art19.com/images/a3/09/42/cd/a30942cd-91f6-44ab-84ff-a557edc43066/53cb8804cc8517897f400456e62d5e569d884c29b3e1ec471bf6449a9d7cea250f56ab4376e057e8ce19cd62ac92d7f93b4cc35681b383de326e10ee411a1065.jpeg",
-      "subtitle": ""
+      "image": "https://content.production.cdn.art19.com/images/a3/09/42/cd/a30942cd-91f6-44ab-84ff-a557edc43066/53cb8804cc8517897f400456e62d5e569d884c29b3e1ec471bf6449a9d7cea250f56ab4376e057e8ce19cd62ac92d7f93b4cc35681b383de326e10ee411a1065.jpeg"
     },
     {
       "title": "TED Radio Hour",
@@ -672,8 +652,7 @@
         "Society & Culture"
       ],
       "description": "Exploring the biggest questions of our time with the help of the world's greatest thinkers. Host Manoush Zomorodi inspires us to learn more about the world, our communities, and most importantly, ourselves.",
-      "image": "https://media.npr.org/assets/img/2020/03/09/trh_podcast-tile_sq-c05fb259465d433a5cf8a21248b8fa209a6b7690.png?s=1400",
-      "subtitle": ""
+      "image": "https://media.npr.org/assets/img/2020/03/09/trh_podcast-tile_sq-c05fb259465d433a5cf8a21248b8fa209a6b7690.png?s=1400"
     },
     {
       "title": "TED Talks Daily",
@@ -708,8 +687,7 @@
         "Technology"
       ],
       "description": "Conversations with the hackers, leaders, and innovators of software development.  Hosts Adam Stacoviak and Jerod Santo face their imposter syndrome so you don’t have to. Expect in-depth interviews with the best and brightest in software engineering, open source, and leadership. This is a polyglot podcast. All programming languages, platforms, and communities are welcome. Open source moves fast. Keep up.",
-      "image": "https://cdn.changelog.com/uploads/covers/the-changelog-original.png?v=63725770322",
-      "subtitle": ""
+      "image": "https://cdn.changelog.com/uploads/covers/the-changelog-original.png?v=63725770322"
     },
     {
       "title": "The CyberWire",
@@ -732,8 +710,7 @@
         "Business - Business News"
       ],
       "description": "Top startup and technology news from Techcrunch.     A SpokenEdition transforms written content into human-read audio you can listen to anywhere. It's perfect for times when you can't read - while driving, at the gym, doing chores, etc. Find more at www.spokenedition.com",
-      "image": "http://media.spokenlayer.com/cover-art/2016/08/19/techcrunch-8-19-16-1400x1400.png",
-      "subtitle": ""
+      "image": "http://media.spokenlayer.com/cover-art/2016/08/19/techcrunch-8-19-16-1400x1400.png"
     },
     {
       "title": "The freeCodeCamp Podcast",
@@ -769,8 +746,7 @@
         "News"
       ],
       "description": "A weekly podcast brought to you by The Information, a subscription tech news site doing deep dives and investigative looks at the tech and media industries. Each episode highlights some of the major happenings in tech business world, featuring the reporters at The Information. It's interviews, analysis, and wrap-ups to help give you insights into what the biggest companies in the industry are thinking.",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1523878/1523878-1571098631584-6f4f4b03eadec.jpg",
-      "subtitle": ""
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1523878/1523878-1571098631584-6f4f4b03eadec.jpg"
     },
     {
       "title": "The James Altucher Show",
@@ -832,8 +808,7 @@
         "Technology"
       ],
       "description": "Your weekly dose of privacy, digital security, and open source intelligence (OSINT) news and opinion.",
-      "image": "http://i1.sndcdn.com/avatars-000538734519-qddebv-original.jpg",
-      "subtitle": "Your weekly dose of privacy, digital security, an…"
+      "image": "http://i1.sndcdn.com/avatars-000538734519-qddebv-original.jpg"
     },
     {
       "title": "The Real Python Podcast",
@@ -856,8 +831,7 @@
         "Education"
       ],
       "description": "A podcast about security for developers, covering tools and best practices.",
-      "image": "https://cdn.simplecast.com/images/95a29d56-a88a-4f96-b531-297c0ae65024/539742e7-353e-4ccb-b240-fd1039896dce/3000x3000/cover-04.jpg?aid=rss_feed",
-      "subtitle": ""
+      "image": "https://cdn.simplecast.com/images/95a29d56-a88a-4f96-b531-297c0ae65024/539742e7-353e-4ccb-b240-fd1039896dce/3000x3000/cover-04.jpg?aid=rss_feed"
     },
     {
       "title": "The Tony Robbins Podcast",
@@ -880,8 +854,7 @@
         "Society & Culture"
       ],
       "description": "Step back in time with stories from Fort Collins’ past, from the cute and quirky to the dark and mysterious.",
-      "image": "http://i1.sndcdn.com/avatars-000336306996-94xp15-original.jpg",
-      "subtitle": "Step back in time with stories from Fort Collins’…"
+      "image": "http://i1.sndcdn.com/avatars-000336306996-94xp15-original.jpg"
     },
     {
       "title": "The Web Platform Podcast",
@@ -904,8 +877,7 @@
         "Society & Culture"
       ],
       "description": "<p>The Wolf's Den is a podcast featuring Jordan Belfort (The REAL Wolf of Wall Street). He'll discuss some of the craziest moments of his life, as well as interview the biggest celebrities, entrepreneurs, scientists, and anyone else that piques his interest. Subscribe today and join the wolf pack!</p>",
-      "image": "https://content.production.cdn.art19.com/images/a2/ca/04/0f/a2ca040f-c366-4545-ae31-c32e3cd976e9/834e2f8106cde42dbb1a9513016913bd7ab58083945a5919930a734b54c87abb1bffaafec330499a262e9c42e68bae8ecd15d782664d59431cb1f867ed4a68fb.jpeg",
-      "subtitle": ""
+      "image": "https://content.production.cdn.art19.com/images/a2/ca/04/0f/a2ca040f-c366-4545-ae31-c32e3cd976e9/834e2f8106cde42dbb1a9513016913bd7ab58083945a5919930a734b54c87abb1bffaafec330499a262e9c42e68bae8ecd15d782664d59431cb1f867ed4a68fb.jpeg"
     },
     {
       "title": "This American Life",
@@ -917,8 +889,7 @@
         "News"
       ],
       "description": "This American Life is a weekly public radio show, heard by 2.2 million people on more than 500 stations. Another 2.5 million people download the weekly podcast. It is hosted by Ira Glass, produced in collaboration with Chicago Public Media, delivered to stations by PRX The Public Radio Exchange, and has won all of the major broadcasting awards.",
-      "image": "https://files.thisamericanlife.org/sites/all/themes/thislife/img/tal-name-1400x1400.png",
-      "subtitle": "This American Life is a weekly public radio show, heard by 2.2 million people on more than 500 stations. Another 2.5 million people download the weekly podcast."
+      "image": "https://files.thisamericanlife.org/sites/all/themes/thislife/img/tal-name-1400x1400.png"
     },
     {
       "title": "Timberline Fort Collins Campus",
@@ -940,8 +911,7 @@
         "Education"
       ],
       "description": "I’ve spent over 20 years studying the emotions and experiences that bring meaning and purpose to our lives, and if there’s one thing I’ve learned it’s this: We are hardwired for connection, and connecting requires courage, vulnerability, and conversation. I want this to be a podcast that’s real, unpolished, honest, and reflects both the magic and the messiness of what it means to be human. Episodes will include conversations with the people who are teaching me, challenging me, confusing me, or maybe even ticking me off a little. I'll also have direct conversations with you about what I’m learning from new research, and we'll do some episodes dedicated to answering your questions. We don’t have to do life alone. We were never meant to.",
-      "image": "https://images.megaphone.fm/TFXDySS3C_n-VICaXBrW_80IYAHWZDCG2hVFTi3mtWQ/plain/s3://megaphone-prod/podcasts/919f580a-32fd-11ea-b53b-ff5b83b60e5c/image/uploads_2F1578587738450-3neoslimlpx-3f7a3cce941ace935a936c6c43b1c148_2FBrene%2BBrown%2BFINAL%2BCOVER_1800.jpg",
-      "subtitle": ""
+      "image": "https://images.megaphone.fm/TFXDySS3C_n-VICaXBrW_80IYAHWZDCG2hVFTi3mtWQ/plain/s3://megaphone-prod/podcasts/919f580a-32fd-11ea-b53b-ff5b83b60e5c/image/uploads_2F1578587738450-3neoslimlpx-3f7a3cce941ace935a936c6c43b1c148_2FBrene%2BBrown%2BFINAL%2BCOVER_1800.jpg"
     },
     {
       "title": "WIRED Tech in Two",
@@ -952,8 +922,7 @@
         "Technology"
       ],
       "description": "Listen to narrated versions of WIRED's biggest stories in the morning, and get an update on the day’s most interesting story from Editor in Chief Nick Thompson in the afternoon.",
-      "image": "http://media.spokenlayer.com/cover-art/2020/02/19/wired-homepage-1400x1400.jpg",
-      "subtitle": ""
+      "image": "http://media.spokenlayer.com/cover-art/2020/02/19/wired-homepage-1400x1400.jpg"
     },
     {
       "title": "Work In Progress",

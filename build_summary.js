@@ -102,11 +102,13 @@ function build_html(data) {
     htmlStr += "                  <a target=\"_blank\" href=\"" + entry['link'] + "\">\n";
     htmlStr += "                    " + entry['title'] + "\n";
     htmlStr += "                  </a>\n";
+    htmlStr += "                <span class=\"categories\">(" + entry['categories'].join(', ') + ")\n";
     htmlStr += "                </li>\n";
-    htmlStr += "                <li class=\"subtitle\">Subtitle: " + entry['subtitle'] + "</li>\n";
-    htmlStr += "                <li class=\"description\">Description: " + entry['description'] + "</li>\n";
-    htmlStr += "                <li class=\"categories\">Categories: " + entry['categories'].join(', ') + "</li>\n";
-    htmlStr += "                <li><a href=\"#top\">top</a> / <a href=\"#bottom\">bottom</a></li>\n";
+    if (entry['subtitle']) {
+      htmlStr += "                <li class=\"subtitle\"><i>" + entry['subtitle'] + "</i></li>\n";
+    }
+    htmlStr += "                <li class=\"description\">" + entry['description'] + "</li>\n";
+    htmlStr += "                <li class=\"topbottom\"><a href=\"#top\">top</a> / <a href=\"#bottom\">bottom</a></li>\n";
     htmlStr += "              </ul>\n";
     htmlStr += "            </li>\n";
   });
@@ -193,10 +195,12 @@ function main() {
           if (feedJson['rss']['channel']['itunes:image']) {
             element['image'] = feedJson['rss']['channel']['itunes:image']['href'];
           }
-          element['subtitle'] = "";
           if (feedJson['rss']['channel']['itunes:subtitle']) {
             if (typeof(feedJson['rss']['channel']['itunes:subtitle']) == "string") {
-              element['subtitle'] = feedJson['rss']['channel']['itunes:subtitle'];
+              subtitle = feedJson['rss']['channel']['itunes:subtitle'];
+              if (subtitle.slice(0, 30) != element['description'].slice(0, 30)) {
+                element['subtitle'] = feedJson['rss']['channel']['itunes:subtitle'];
+              }
             }
           }
           if (feedJson['rss']['channel']['itunes:category']) {

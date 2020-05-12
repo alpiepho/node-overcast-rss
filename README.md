@@ -30,7 +30,7 @@ Wow...I thought I was at 50ish....82 at this writing!
 
 ```
 npm install
-npm start  > podcast-summary.mdx
+npm start
 ```
  
 ### Local Test of index.html
@@ -40,3 +40,6 @@ npm start  > podcast-summary.mdx
 - open http://localhost:8000/
 
 
+### TODO
+
+- want to get last podcast date
