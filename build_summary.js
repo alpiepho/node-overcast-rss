@@ -88,6 +88,9 @@ function sortByKey(array, key) {
 function build_html(data) {
   // generate artifacts from data - html
   let htmlStr = html1;
+  today = new Date()
+  htmlStr += "<sup><sub>(updated " + today + ")</sub></sup>\n"
+  htmlStr += "\n"
   htmlStr += "      <br/><p>Total Subscriptions: " + data['list'].length + "</p><br/>\n\n";
   htmlStr += "      <ul>\n";
   data['list'].forEach(entry => {
