@@ -98,19 +98,32 @@ function build_html(data) {
     htmlStr += "              <ul>\n";
     htmlStr += "                <li>\n";
 
-    if (entry['image']) {
-      htmlStr += "                  <p><img src=\"" + entry['image'] + "\"</img></p>\n";
-    }
+    htmlStr += "                  <div class=\"leftside\">\n";
+    htmlStr += "                    <ul>\n";
+    htmlStr += "                      <li>\n";
+    htmlStr += "                        <a target=\"_blank\" href=\"" + entry['link'] + "\">\n";
+    htmlStr += "                        " + entry['title'] + "\n";
+    htmlStr += "                        </a>\n";
+    htmlStr += "                      </li>\n";
+    htmlStr += "                      <li>\n";
+    htmlStr += "                        <span class=\"categories\">(" + entry['categories'].join(', ') + ")\n";
+    htmlStr += "                      </li>\n";
+    // htmlStr += "                      <li>\n";
+    // if (entry['subtitle']) {
+    //   htmlStr += "                        <li class=\"subtitle\"><i>" + entry['subtitle'] + "</i></li>\n";
+    // }
+    // htmlStr += "                      </li>\n";
+    htmlStr += "                      <li class=\"description\">" + entry['description'] + "</li>\n";
+    htmlStr += "                    </ul>\n";
+    htmlStr += "                  </div>\n";
 
-    htmlStr += "                  <a target=\"_blank\" href=\"" + entry['link'] + "\">\n";
-    htmlStr += "                    " + entry['title'] + "\n";
-    htmlStr += "                  </a>\n";
-    htmlStr += "                <span class=\"categories\">(" + entry['categories'].join(', ') + ")\n";
-    htmlStr += "                </li>\n";
-    if (entry['subtitle']) {
-      htmlStr += "                <li class=\"subtitle\"><i>" + entry['subtitle'] + "</i></li>\n";
+    htmlStr += "                  <div class=\"rightside\">\n";
+    if (entry['image']) {
+      htmlStr += "                    <p><img src=\"" + entry['image'] + "\"</img></p>\n";
     }
-    htmlStr += "                <li class=\"description\">" + entry['description'] + "</li>\n";
+    htmlStr += "                  </div>\n";
+
+    htmlStr += "                </li>\n";
     htmlStr += "                <li class=\"topbottom\"><a href=\"#top\">top</a> / <a href=\"#bottom\">bottom</a></li>\n";
     htmlStr += "              </ul>\n";
     htmlStr += "            </li>\n";

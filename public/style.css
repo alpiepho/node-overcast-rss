@@ -25,7 +25,7 @@ li {
 }
 
 img {
-    width: 300px;
+    width: 250px;
 }
 
 .subtitle {
@@ -34,27 +34,37 @@ img {
 }
 
 .description {
-    max-width: 800px;
+    max-width: 450px;
 }
 
 .topbottom {
     margin-top: 20px;
     margin-bottom: 50px;
+    clear: both;
 }
 
-@media only screen and (max-width: 600px) {
-    /* ul {
-        padding: 0;
-    } */
+.leftside {
+    float: left;
+    padding-top: 20px;
+}
 
+.rightside {
+    float: right;
+}
+
+.leftside li {
+    text-align: left;
+}
+
+
+@media only screen and (max-width: 800px) {
     .body {
         margin: auto;
         width: 300px;
-    }
-    
+    } 
     
     img {
-        width: 300px;
+        width: 250px;
     }
 
     .subtitle {

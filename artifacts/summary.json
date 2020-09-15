@@ -267,7 +267,7 @@
         "Education"
       ],
       "description": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists.",
-      "image": "https://cdn.simplecast.com/images/24832310-78fe-4898-91be-6db33696c4ba/5f3d9920-d9ed-4f6a-ba5d-77feba765649/3000x3000/1519419781artwork.jpg?aid=rss_feed"
+      "image": "https://image.simplecastcdn.com/images/24832310-78fe-4898-91be-6db33696c4ba/5f3d9920-d9ed-4f6a-ba5d-77feba765649/3000x3000/1519419781artwork.jpg?aid=rss_feed"
     },
     {
       "title": "Hush Money",
@@ -504,7 +504,7 @@
         "Technology"
       ],
       "description": "Conversations about React with your favorite developers.",
-      "image": "https://cdn.simplecast.com/images/bdb43d4d-bd1d-4fbc-bd60-40f1e3299aa3/20f97d0b-6dab-4005-a995-0ab8fc2cf31c/3000x3000/1550288890-artwork.jpg?aid=rss_feed"
+      "image": "https://image.simplecastcdn.com/images/bdb43d4d-bd1d-4fbc-bd60-40f1e3299aa3/20f97d0b-6dab-4005-a995-0ab8fc2cf31c/3000x3000/1550288890-artwork.jpg?aid=rss_feed"
     },
     {
       "title": "Recorded Future - Inside Security Intelligence",
@@ -552,7 +552,14 @@
       "title": "SANS Internet Stormcenter Daily Network/Cyber Security and Information Security Stormcast",
       "link": "https://isc.sans.edu/podcast.html",
       "rss": "https://isc.sans.edu/dailypodcast.xml",
-      "categories": []
+      "categories": [
+        "News",
+        "Technology",
+        "News"
+      ],
+      "description": "A brief daily summary of what is important in information security. The podcast is published every weekday and designed to get you ready for the day with a brief, usually 5 minute long, summary of current network security related events. The content is late breaking, educational and based on listener input as well as on input received by the SANS Internet Stormcenter. You may submit questions and comments via our contact form at https://isc.sans.edu/contact.html .",
+      "image": "https://isc.sans.edu/images/twitter/podcast.jpg",
+      "subtitle": "Daily update on current cyber security threats"
     },
     {
       "title": "Sharpen: The podcast for young professionals",
@@ -829,7 +836,7 @@
         "Education"
       ],
       "description": "A podcast about security for developers, covering tools and best practices.",
-      "image": "https://cdn.simplecast.com/images/95a29d56-a88a-4f96-b531-297c0ae65024/539742e7-353e-4ccb-b240-fd1039896dce/3000x3000/cover-04.jpg?aid=rss_feed"
+      "image": "https://image.simplecastcdn.com/images/95a29d56-a88a-4f96-b531-297c0ae65024/539742e7-353e-4ccb-b240-fd1039896dce/3000x3000/cover-04.jpg?aid=rss_feed"
     },
     {
       "title": "The Tom's Hardware Show",
@@ -894,7 +901,7 @@
         "Health & Fitness"
       ],
       "description": "Tiny Leaps, Big Changes is a personal development podcast focused on exploring the day-to-day behaviors we all engage in that determine the results we gain in our lives. Hosted by Gregg Clunis, the show shares simple strategies you can implement into your life to start moving the needle towards your biggest goals.",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1882453/1882453-1559505705921-8c8dc8393fcf9.jpg"
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1882453/1882453-1600093305943-29ae16531e27f.jpg"
     },
     {
       "title": "Twenty Thousand Hertz",
