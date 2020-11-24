@@ -16,7 +16,7 @@ https://thesweetsetup.com/export-podcast-subscriptions-overcast-workouts/
 
 ### Workaround to see file clearer
 
-The .opml file is basically an xml file.  I quick and dirty way to inspect it is:
+The .opml file is basically an xml file.  A quick and dirty way to inspect it is:
 
 - copy to .html
 - use VS Code to format

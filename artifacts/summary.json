@@ -11,6 +11,30 @@
       "image": "http://www.pwop.com/itunes_dnr.jpg"
     },
     {
+      "title": "A Bit of Optimism",
+      "link": "https://a-bit-of-optimism.simplecast.com/",
+      "rss": "https://feeds.simplecast.com/0aMcqx_F",
+      "categories": [
+        "Society & Culture",
+        "Education",
+        "Business"
+      ],
+      "description": "During these times, we are all having to find new ways to connect.  Join me every week as I talk with people that inspire me, about love, life, leadership, and silver linings. The hope is that we all leave with something I think we need these days… A Bit of Optimism.",
+      "image": "https://image.simplecastcdn.com/images/fc084895-5736-4a3c-a756-47e3a77ee859/3f30c22a-100d-43e9-ae64-749bf2c8c807/3000x3000/simon-podcast-3000x3000.jpg?aid=rss_feed"
+    },
+    {
+      "title": "a16z Podcast",
+      "link": "https://www.a16z.com/",
+      "rss": "https://feeds.simplecast.com/JGE3yC0V",
+      "categories": [
+        "Technology",
+        "Business",
+        "Science"
+      ],
+      "description": "The a16z Podcast discusses tech and culture trends, news, and the future – especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world. This podcast is produced by Andreessen Horowitz (aka “a16z”), a Silicon Valley-based venture capital firm. Multiple episodes are released every week; visit a16z.com for more details and to sign up for our newsletters and other content as well!",
+      "image": "https://image.simplecastcdn.com/images/3f86df7b-51c6-4101-88a2-550dba782de8/cba4ff5a-8ac3-4b47-8e99-7dca48bd2861/3000x3000/avatars00007312059946q7imoriginal.jpg?aid=rss_feed"
+    },
+    {
       "title": "Acquired",
       "link": "https://acquired.fm/",
       "rss": "https://acquired.libsyn.com/rss",
@@ -44,13 +68,15 @@
         "History"
       ],
       "description": "<p>DNA science. Artificial intelligence. Smartphones and 3D printers. Science and technology have transformed the world we live in. But how did we get here? It wasn’t by accident. Well, sometimes it was. It was also the result of hard work, teamwork, and competition. And incredibly surprising moments.</p><p>Hosted by bestselling author Steven Johnson (“How We Got To Now”), American Innovations uses immersive scenes to tell the stories of the scientists, engineers, and ordinary people behind the greatest discoveries of the past century. From Wondery, the network behind Business Wars, American History Tellers, and Dirty John. </p>",
-      "image": "https://content.production.cdn.art19.com/images/8d/72/58/ea/8d7258ea-970c-421f-86c3-921620c16efd/57a79bd6a8e240aec9b8d32edbea5fb8e92a60ff7eed14040218edbffe059b40035a8ebc882e9ba5cef1b8f5386239d4d131d1e4b524fc40c0fbb38469857d06.jpeg"
+      "image": "https://content.production.cdn.art19.com/images/c4/28/70/5e/c428705e-6fb2-4d00-8367-c92ecd6dfdbe/4db59680b7483f8ae1e9b5fc2ee43b68385959be4c6854eb3bc3e105bcffb5fb9aaa8a7e3399ad43f45a8e42ad915f3c5de1080f7e98cfa1a68e1ee6a5a4c5bc.jpeg"
     },
     {
       "title": "Analyse Asia with Bernard Leong",
       "link": "https://analyse.asia/",
       "rss": "https://analyseasia.libsyn.com/rss",
       "categories": [
+        "Business",
+        "Business",
         "Business"
       ],
       "description": "Analyse Asia with Bernard Leong is a weekly podcast dedicated to the pulse of technology, business and media in Asia. We interview thought leaders and leading industry players and gain their insights to how we perceive and understand the market.",
@@ -88,7 +114,7 @@
         "History"
       ],
       "description": "<p>Netflix vs. HBO. Nike vs. Adidas. Business is war. Sometimes the prize is your wallet or your attention. Sometimes, it’s just the fun of beating the other guy. The outcome of these battles shapes what we buy and how we live.&nbsp;</p><p>Business Wars gives you the unauthorized, real story of what drives these companies and their leaders, inventors, investors and executives to new heights -- or to ruin. Hosted by David Brown, former anchor of Marketplace. From Wondery, the network behind Dirty John and American History Tellers.</p>",
-      "image": "https://content.production.cdn.art19.com/images/72/49/f7/a4/7249f7a4-163e-443e-9d0b-c4d2133eb36c/28ee9ab994e1d3017649f8beb239f7f01c4c677cd3dce26ccec4a27f8c066901c8de40be841fe20e91c8ec5b8713ae3fda343671b3dbf73b9bd537cee88d7988.jpeg"
+      "image": "https://content.production.cdn.art19.com/images/60/f9/e0/bb/60f9e0bb-1647-4c1e-bd1e-8d47d79e43e5/0ea5222803fa8d780e7450b558644d673bd157c8c95001fb9b9b8cdf2d1f59055519f74c80fe8a7ee15776ab3bdf35d866c6cc9231b10c728602381772cb5c13.jpeg"
     },
     {
       "title": "Channel 9",
@@ -141,7 +167,7 @@
         "Business"
       ],
       "description": "Stories about the people transforming technology from the command line up.",
-      "image": "https://cdn.simplecast.com/images/a88fbe81-5614-4834-8a78-24c287debbe6/091bd7ce-ee25-4651-b477-f34f185bf5e6/3000x3000/1535059689artwork.jpg?aid=rss_feed"
+      "image": "https://image.simplecastcdn.com/images/a88fbe81-5614-4834-8a78-24c287debbe6/091bd7ce-ee25-4651-b477-f34f185bf5e6/3000x3000/1535059689artwork.jpg?aid=rss_feed"
     },
     {
       "title": "CYBER",
@@ -153,7 +179,7 @@
         "News & Politics"
       ],
       "description": "<p><strong>Hacking. Hackers. Disinformation campaigns. Encryption. The Cyber. This stuff gets complicated really fast, but Motherboard spends its time embedded in the infosec world so you don't have to. Host Ben Makuch talks every week to Motherboard reporters Lorenzo Franceschi-Bicchierai and Joseph Cox about the stories they're breaking and to the industry's most famous hackers and researchers about the biggest news in cybersecurity.</strong></p>",
-      "image": "https://thumborcdn.acast.com/HFHY2J0-YpRv5iM5bvUNn2Nr88M=/1500x1500/https://mediacdn.acast.com/assets/6dab3ca4-41f5-4fd4-bba6-224ab53f5113/-jo975mb4-cyber.jpg",
+      "image": "https://thumborcdn.acast.com/e1IxzQJpOer5otWc5H6T9uwS0qY=/1500x1500/https://mediacdn.acast.com/assets/6dab3ca4-41f5-4fd4-bba6-224ab53f5113/-kfpk3y7t-cyber_artwork.jpg",
       "subtitle": "Hacking. Hackers. Disinformation campaigns. Encryption. The Cyber. This stuff gets complicated really fast, but Motherboard spends its time embedded in the infosec world so you don&apos;t have to. Host Ben Makuch talks every week to Motherboard reporte..."
     },
     {
@@ -244,7 +270,7 @@
         "Technology"
       ],
       "description": "Guy Kawasaki's Remarkable People features interviews with thought leaders, legends, and iconoclasts such as Jane Goodall, Stephen Wolfram, Margaret Atwood, Woz, Martha Stewart, and Leon Panetta. Every episode will make you a little more remarkable.",
-      "image": "https://cdn.simplecast.com/images/479a5b0a-68f9-4d44-bc87-aaa31e90ca64/fbc37200-123b-4bc3-aa68-44ee0f76295f/3000x3000/guy-kawasakis-remarkable-people-8.jpg?aid=rss_feed"
+      "image": "https://image.simplecastcdn.com/images/479a5b0a-68f9-4d44-bc87-aaa31e90ca64/fbc37200-123b-4bc3-aa68-44ee0f76295f/3000x3000/guy-kawasakis-remarkable-people-8.jpg?aid=rss_feed"
     },
     {
       "title": "Hacking Humans",
@@ -270,23 +296,15 @@
       "image": "https://image.simplecastcdn.com/images/24832310-78fe-4898-91be-6db33696c4ba/5f3d9920-d9ed-4f6a-ba5d-77feba765649/3000x3000/1519419781artwork.jpg?aid=rss_feed"
     },
     {
-      "title": "Hush Money",
-      "link": "",
-      "rss": "https://feeds.megaphone.fm/HSW5034863184",
+      "title": "Indie Hackers",
+      "link": "https://www.indiehackers.com/",
+      "rss": "https://feeds.transistor.fm/the-indie-hackers-podcast",
       "categories": [
         "Business",
-        "Society & Culture"
+        "Technology"
       ],
-      "description": "Let’s talk about money — but not *boring* money. Entrepreneur editor-in-chief Jason Feifer and money expert Nicole Lapin go straight at the most taboo, awkward situations where money impacts our lives, relationships, and careers. In each episode they debate the trickiest questions, offering genuine financial advice about typically hush-hush issues. Then they bring in a celebrity judge to decide who’s right.",
-      "image": "https://images.megaphone.fm/OKmFvrQpRibCKEuvodekxVKHk_-zeDNGXz3uMBO57yE/plain/s3://megaphone-prod/podcasts/cf256908-4505-11e9-a6f3-9bc4339aa07c/image/uploads_2F1563574766171-3e67685am64-8061c675b44b181e05fddc5106160fe1_2FHushMoney-Logo-FINAL-3000x3000-iHR.png"
-    },
-    {
-      "title": "Inside ASU",
-      "link": "http://feed.theplatform.com/f/U8-EDC/IOuJoNNsf_8o",
-      "rss": "http://feed.theplatform.com/f/U8-EDC/IOuJoNNsf_8o",
-      "categories": [],
-      "description": "If you’re planning to come to Arizona State University, there are a few things to know before you start. Inside ASU offers info to get you ready for your ASU experience. Join two Sun Devils who share tips they’ve picked up, and before you know it, you’ll be ready to confidently start your Sun Devil adventure.",
-      "image": "http://jkcoze-sc.storage.googleapis.com/ASU_-_Instructional_Support/154/1007/Inside_ASU_Podcast_v4_1400x1400.jpg"
+      "description": "Courtland Allen interviews the ambitious indie hackers who are turning their ideas and side projects into profitable online businesses. Explore the latest strategies and tools founders are using to discover new trends, escape the 9-to-5 grind, and create their own personal revenue-generating machines. The future is indie!",
+      "image": "https://images.transistor.fm/file/transistor/images/show/10985/full_1590257593-artwork.jpg"
     },
     {
       "title": "Intelligence Squared",
@@ -359,7 +377,7 @@
       "categories": [
         "Technology"
       ],
-      "description": "A community celebration of JavaScript and the web.  This show records LIVE on Thursdays at 1pm US/Eastern time. Panelists include Suz Hinton, Feross Aboukhadijeh, Kevin Ball, Emma Wedekind, Jerod Santo, Nick Nisi, Divya Sasidharan, Mikeal Rogers, and Chris Hiller.\n\nTopics discussed include the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (React, Ember, Angular, Vue, etc), Node.js, web animation, SVG, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show’s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
+      "description": "Your weekly celebration of JavaScript and the web.  This show records LIVE on Thursdays at 1pm US/Eastern time. Panelists include Suz Hinton, Feross Aboukhadijeh, Kevin Ball, Emma Wedekind, Jerod Santo, Nick Nisi, Divya Sasidharan, Mikeal Rogers, and Chris Hiller.\n\nTopics discussed include the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (React, Ember, Angular, Vue, etc), Node.js, web animation, SVG, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show’s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
       "image": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
     },
     {
@@ -409,17 +427,6 @@
       "image": "https://content.production.cdn.art19.com/images/29/6a/3a/b4/296a3ab4-d995-40c3-a819-54e951f34ccd/644797315e2e4f790a2d5324d549ec25f49def8f46e42cdb9acb6946bd4d1fce4ec4fb11b5e257f26e0ce17749d072c6be34a4e568318c9ebc100901645cc03c.jpeg"
     },
     {
-      "title": "Modern Web",
-      "link": "https://modernweb.podbean.com/",
-      "rss": "https://modernweb.podbean.com/feed.xml",
-      "categories": [
-        "Technology"
-      ],
-      "description": "Modern Web is a podcast that explores next generation frameworks, standards, and techniques. Visit http://modern-web.org for more.",
-      "image": "https://pbcdn1.podbean.com/imglogo/image-logo/984467/modern-web-podcast-logo.png",
-      "subtitle": "Exploring next generation frameworks, standards, and techniques."
-    },
-    {
       "title": "No Stupid Questions",
       "link": "https://freakonomics.com/nsq/",
       "rss": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/dc5b55ca-5f00-4063-b47f-ab870163d2b7/ca63aa52-ef7b-43ee-8ba5-ab8701645231/podcast.rss",
@@ -448,8 +455,8 @@
         "Technology"
       ],
       "description": "Want to feel more optimistic about the future? Want to feel more open-minded about new things? Then join us for a trip back to the pessimists of the past. In this show, we explore the wild and surprising ways that people resisted change — and what it can teach us about resiliency today. It's called Pessimists Archive, but it's all about optimism! Hosted by Jason Feifer.",
-      "image": "https://images.megaphone.fm/QAWbKgjDE1qK_IkBdsvyFeyr8GhWfI73oKrcrM4gYZI/plain/s3://megaphone-prod/podcasts/e20f1d10-cb51-11ea-9cf9-5ba0c0ae755e/image/avatars-000385073390-fyvstl-original.jpg",
-      "subtitle": "How to become an optimist"
+      "image": "https://images.megaphone.fm/9uI0yhJuzDa5PXmWR4syqDxeSqx1vHyD1ykM8IT7aQY/plain/s3://megaphone-prod/podcasts/e20f1d10-cb51-11ea-9cf9-5ba0c0ae755e/image/uploads_2F1602340636182-46u2bgwwyf4-6c2d845a6669dfaeae8119ed48e86fc6_2Fnew%2Blogo%2Bfor%2Bapple%2Bart.png",
+      "subtitle": "Embrace change"
     },
     {
       "title": "Pivot",
@@ -486,15 +493,14 @@
     },
     {
       "title": "React Native Radio",
-      "link": "https://devchat.tv/react-native-radio",
-      "rss": "https://feeds.feedwrench.com/react-native-radio.rss",
+      "link": "https://www.reactnativeradio.com/",
+      "rss": "https://feeds.simplecast.com/hEI_f9Dx",
       "categories": [
         "Technology",
-        "Education",
         "Education"
       ],
-      "description": "React Native Radio Podcast",
-      "image": "https://s3.amazonaws.com/devchat.tv/react-native-radio-album-art.jpg"
+      "description": "Exploring React Native Together",
+      "image": "https://image.simplecastcdn.com/images/fd1212b1-7d08-4c5a-8506-00188a4c6528/ce0f0670-81cc-4192-8522-4dfcea508a8b/3000x3000/simplecast-img-v3.jpg?aid=rss_feed"
     },
     {
       "title": "React Podcast",
@@ -651,6 +657,18 @@
       "subtitle": "Python conversations for passionate developers"
     },
     {
+      "title": "Teamistry",
+      "link": "https://www.atlassian.com/blog/podcast",
+      "rss": "https://feeds.pacific-content.com/teamistry",
+      "categories": [
+        "Business",
+        "Society & Culture",
+        "History"
+      ],
+      "description": "How do we meet the challenges we face as organizations, countries, or even as a species? Whether we’re locked in fierce corporate competition or struggling with matters of life and death, one constant stands out: teams working together. And when teams, and teams of teams, focus on combining their unique abilities, expertise, and experience to embrace uncertainty, innovate, and tackle massive challenges? No problem is unsolvable. Teamistry is all about the chemistry that exists between groups of people who team up to achieve more than they ever thought possible. Join host Gabriela Cowperthwaite as she turns her filmmaker’s eye toward stories of teams working together to change their fate and even the course of history.",
+      "image": "https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/b124272a-0935-4efc-a67b-350254d248cb/3000x3000/teamistry-show-cover.jpg?aid=rss_feed"
+    },
+    {
       "title": "Techmeme Ride Home",
       "link": "https://www.ridehome.info/podcast/techmeme-ride-home/",
       "rss": "https://rss.art19.com/techmeme-ridehome",
@@ -699,37 +717,47 @@
       "subtitle": "Because Software Engineering should include more testing"
     },
     {
+      "title": "The AI Podcast",
+      "link": "https://blogs.nvidia.com/ai-podcast/",
+      "rss": "http://feeds.soundcloud.com/users/soundcloud:users:264034133/sounds.rss",
+      "categories": [
+        "Technology"
+      ],
+      "description": "AI has been described as “Thor’s Hammer“ and “the new electricity.” But it’s also a bit of a mystery – even to those who know it best. We’ll connect with some of the world’s leading AI experts to explain how it works, how it’s evolving, and how it intersects with every facet of human endeavor. This podcast is produced by NVIDIA, the AI computing company. Multiple episodes are released every month.",
+      "image": "http://i1.sndcdn.com/avatars-000709444132-h3sd13-original.jpg"
+    },
+    {
       "title": "The Changelog: Software Dev & Open Source",
       "link": "https://changelog.com/podcast",
       "rss": "https://changelog.com/podcast/feed",
       "categories": [
         "Technology"
       ],
-      "description": "Conversations with the hackers, leaders, and innovators of software development.  Hosts Adam Stacoviak and Jerod Santo face their imposter syndrome so you don’t have to. Expect in-depth interviews with the best and brightest in software engineering, open source, and leadership. This is a polyglot podcast. All programming languages, platforms, and communities are welcome. Open source moves fast. Keep up.",
+      "description": "Conversations with the hackers, leaders, and innovators of the software world.  Hosts Adam Stacoviak and Jerod Santo face their imposter syndrome so you don’t have to. Expect in-depth interviews with the best and brightest in software engineering, open source, and leadership. This is a polyglot podcast. All programming languages, platforms, and communities are welcome. Open source moves fast. Keep up.",
       "image": "https://cdn.changelog.com/uploads/covers/the-changelog-original.png?v=63725770322"
     },
     {
       "title": "The CyberWire Daily",
       "link": "https://thecyberwire.com/podcasts/daily-podcast",
-      "rss": "https://thecyberwire.libsyn.com/rss",
+      "rss": "https://feeds.megaphone.fm/cyberwire-daily-podcast",
       "categories": [
         "Technology",
         "News"
       ],
-      "description": "The daily cybersecurity news and analysis industry leaders depend on. Published each weekday, the program also included interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world.",
+      "description": "The daily cybersecurity news and analysis industry leaders depend on. Published each weekday, the program also includes interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world.",
       "image": "https://images.megaphone.fm/Ks9Hx-GSrP8Kvezcoyq-BzuU6VGt4f3aE2wnA9CQ31U/plain/s3://megaphone-prod/podcasts/58ab7ae0-def8-11ea-b34c-b35b208b0539/image/daily-podcast-cover-art-cw.jpg"
     },
     {
       "title": "The Daily Crunch – Spoken Edition",
       "link": "https://techcrunch.com/",
-      "rss": "http://api.spokenlayer.com/feed/channel/v1-techcrunch-the-daily-crunch-ext/3c9929b72538c12bd92ac6762f8d798b9d4e8cdca7692ea74f466061d01816cb",
+      "rss": "https://api.spokenlayer.com/feed/channel/v1-techcrunch-the-daily-crunch-ext/3c9929b72538c12bd92ac6762f8d798b9d4e8cdca7692ea74f466061d01816cb",
       "categories": [
         "News",
         "News",
         "Technology"
       ],
       "description": "Listen to articles featured in our daily newsletter, the Daily Crunch, and stay updated on top startup and technology news from TechCrunch.",
-      "image": "http://media.spokenlayer.com/cover-art/2016/08/19/techcrunch-8-19-16-1400x1400.png"
+      "image": "https://media.spokenlayer.com/cover-art/2016/08/19/techcrunch-8-19-16-1400x1400.png"
     },
     {
       "title": "The freeCodeCamp Podcast",
@@ -743,17 +771,6 @@
       "description": "The official podcast of the freeCodeCamp open source community.\n\nLearn to code with free online courses, programming projects, and interview preparation for developer jobs.",
       "image": "https://ssl-static.libsyn.com/p/assets/2/f/f/7/2ff7cc8aa33fe438/freecodecamp-square-logo-large-1400.jpg",
       "subtitle": "Learn to code and get your first developer job"
-    },
-    {
-      "title": "The Indie Hackers Podcast",
-      "link": "https://www.indiehackers.com/",
-      "rss": "https://feeds.transistor.fm/the-indie-hackers-podcast",
-      "categories": [
-        "Business",
-        "Business"
-      ],
-      "description": "I'm Courtland Allen, and on IndieHackers.com I've interviewed hundreds of people about how they've turned their ideas and side projects into profitable online businesses. Explore the stories, challenges, and tactics behind the indie hackers who are escaping the 9-to-5 grind and building their own revenue-generating machines.",
-      "image": "https://images.transistor.fm/file/transistor/images/show/10985/full_1590257593-artwork.jpg"
     },
     {
       "title": "The Information's 411",
@@ -803,16 +820,17 @@
       "subtitle": "Python Tips, Interviews, and More"
     },
     {
-      "title": "The Roy Firestone Podcast",
-      "link": "https://art19.com/shows/the-roy-firestone-podcast",
-      "rss": "https://rss.art19.com/the-roy-firestone-podcast",
+      "title": "The Rich Roll Podcast",
+      "link": "https://www.richroll.com/blog/",
+      "rss": "https://feeds.acast.com/public/shows/5de6c1c9bd860fd53f965e25",
       "categories": [
-        "Sports",
-        "Arts",
+        "Education",
+        "Health & Fitness",
         "Society & Culture"
       ],
-      "description": "<p>Interviews, story telling, observations, commentary, and satire from Roy Firestone's 40 years in broadcasting featuring classic clips, new conversations, and unique narratives on the greatest names in sports, music, and pop culture.</p>",
-      "image": "https://content.production.cdn.art19.com/images/a5/7f/04/fb/a57f04fb-b247-4999-8989-cacb5c219ebe/bab6bad88ded3ac1db99b3e6352295dc7ec69a5eda4bc5d9d3395a18f88a03480257e5d2701c3c6910dc02bcd87fe27a698d4dae6c6c43229f18cbd67dcb7bfe.jpeg"
+      "description": "A master-class in personal and professional development, ultra-athlete, wellness evangelist and bestselling author Rich Roll delves deep with the world's brightest and most thought provoking thought leaders to educate, inspire and empower you to unleash your best, most authentic self. More at: https://richroll.com<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "image": "https://assets.pippa.io/shows/5de6c1c9bd860fd53f965e25/show-cover.jpg",
+      "subtitle": "Optimize Your Health, Fitness & Spirituality To Become Your Best, Most Authentic Self"
     },
     {
       "title": "The School of Greatness",
@@ -922,18 +940,18 @@
         "Education"
       ],
       "description": "Interested in science, technology, machinery, engineering and the history behind everyday things? Want a fast and fun way to get your kids interested in STEM? Look no further! We break down a weekly engineering topic in a way that everyone can understand and enjoy.\nTwitter: @UnproEng\nInstagram: Unprofessional_Engineering\nFacebook: UnprofessionalEngineering",
-      "image": "http://i1.sndcdn.com/avatars-000308410834-bdt29j-original.jpg"
+      "image": "http://i1.sndcdn.com/avatars-A2t7YfwtX1COm84c-OY5BjA-original.jpg"
     },
     {
       "title": "WIRED Tech in Two",
-      "link": "http://www.spokenedition.com/",
-      "rss": "http://api.spokenlayer.com/feed/channel/v1-wired-homepage-ext/3c9929b72538c12bd92ac6762f8d798b9d4e8cdca7692ea74f466061d01816cb",
+      "link": "https://www.wired.com/",
+      "rss": "https://api.spokenlayer.com/feed/channel/v1-wired-homepage-ext/3c9929b72538c12bd92ac6762f8d798b9d4e8cdca7692ea74f466061d01816cb",
       "categories": [
         "News",
         "Technology"
       ],
       "description": "Listen to narrated versions of WIRED's biggest stories in the morning, and get an update on the day’s most interesting story from Editor in Chief Nick Thompson in the afternoon.",
-      "image": "http://media.spokenlayer.com/cover-art/2020/02/19/wired-homepage-1400x1400.jpg"
+      "image": "https://media.spokenlayer.com/cover-art/2020/02/19/wired-homepage-1400x1400.jpg"
     },
     {
       "title": "Word Notes",
