@@ -8,7 +8,7 @@
         "Technology"
       ],
       "description": ".NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.",
-      "image": "http://www.pwop.com/itunes_dnr.jpg"
+      "image": "./images/dotnetrocks.jpg"
     },
     {
       "title": "A Bit of Optimism",

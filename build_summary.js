@@ -119,7 +119,7 @@ function build_html(data) {
 
     htmlStr += "                  <div class=\"rightside\">\n";
     if (entry['image']) {
-      htmlStr += "                    <p><img src=\"" + entry['image'] + "\"</img></p>\n";
+      htmlStr += "                    <p><img src=\"" + entry['image'] + "\"></img></p>\n";
     }
     htmlStr += "                  </div>\n";
 
@@ -205,11 +205,18 @@ function main() {
           let feedJson = JSON.parse(parser.toJson(response.data));
           element['description'] = feedJson['rss']['channel']['description'];
           element['description'] = element['description'].replace('<br>', '<br/>');
-          if (feedJson['rss']['channel']['image']) {
-            element['image'] = feedJson['rss']['channel']['image']['url'];
+
+          // HACK, image does not redirect to https
+          if (element['description'].includes('NET Rocks')) {
+            element['image'] = "./images/dotnetrocks.jpg"
           }
-          if (feedJson['rss']['channel']['itunes:image']) {
-            element['image'] = feedJson['rss']['channel']['itunes:image']['href'];
+          else {
+            if (feedJson['rss']['channel']['image']) {
+              element['image'] = feedJson['rss']['channel']['image']['url'];
+            }
+            if (feedJson['rss']['channel']['itunes:image']) {
+                element['image'] = feedJson['rss']['channel']['itunes:image']['href'];
+            }
           }
           if (feedJson['rss']['channel']['itunes:subtitle']) {
             if (typeof(feedJson['rss']['channel']['itunes:subtitle']) == "string") {
